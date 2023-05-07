@@ -1,0 +1,19 @@
+input,
+button,
+select {
+  font-size: 1.5rem;
+}
+
+.header__principal {
+  width: 100%;
+  height: 130px;
+  background-color: red;
+  margin-bottom: 1rem;
+}
+
+.header__principal-info {
+  width: 100%;
+  height: 130px;
+  background-color: red;
+  margin-bottom: 3rem;
+}

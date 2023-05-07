@@ -1,0 +1,27 @@
+.container__err {
+  background: #e5e5e5;
+  height: 100vh;
+}
+
+.poke_err {
+  margin-top: 15rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.pikachu__err {
+  margin-bottom: 3rem;
+  max-width: 400px;
+  max-height: 500px;
+}
+
+.poke_err h1 {
+  color: red;
+  font-weight: 900;
+}
+
+.poke_err h3 {
+  font-weight: 600;
+}

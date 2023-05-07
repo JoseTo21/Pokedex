@@ -1,0 +1,23 @@
+.home__app {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.header__principal-home {
+  min-width: 320px;
+  max-width: 1300px;
+}
+
+.home__app h1 {
+  text-align: center;
+  color: red;
+  font-weight: 800;
+}
+
+.home__app p {
+  font-weight: 700;
+}
