@@ -14,7 +14,7 @@ const Pokedex = () => {
   return (
     <div>
       <nav>
-        <img className="header__principal" src="banner-pokedex.png" />
+        <img className="header__principal" src="/banner-pokedex.png" />
       </nav>
       <div className="pokedex__container">
         <p className="welcome">

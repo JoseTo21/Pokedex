@@ -17,7 +17,7 @@ const PokeInfo = () => {
   return (
     <div>
       <nav>
-        <img className="header__principal-info" src="banner-pokedex.png" />
+        <img className="header__principal-info" src="/banner-pokedex.png" />
       </nav>
       {hasError ? (
         <PokeInfoErr />
