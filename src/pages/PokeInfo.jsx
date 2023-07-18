@@ -78,10 +78,7 @@ const PokeInfo = () => {
 
                   <article className="po__stats">
                     <div className="poke__sts-indv">
-                      <img
-                        className="stat__img"
-                        src="public\heart-svgrepo-com.svg"
-                      />
+                      <img className="stat__img" src="\heart-svgrepo-com.svg" />
                       <div className="po__st">
                         <h4 className={`color-${pokemon?.types[0].type.name}`}>
                           HP:
@@ -92,7 +89,7 @@ const PokeInfo = () => {
                     <div className="poke__sts-indv">
                       <img
                         className="stat__img"
-                        src="public\sword-svgrepo-com (1).svg"
+                        src="\sword-svgrepo-com (1).svg"
                       />
                       <div className="po__st">
                         <h4 className={`color-${pokemon?.types[0].type.name}`}>
@@ -104,7 +101,7 @@ const PokeInfo = () => {
                     <div className="poke__sts-indv">
                       <img
                         className="stat__img"
-                        src="public\shield-svgrepo-com.svg"
+                        src="\shield-svgrepo-com.svg"
                       />
                       <div className="po__st">
                         <h4 className={`color-${pokemon?.types[0].type.name}`}>
@@ -116,7 +113,7 @@ const PokeInfo = () => {
                     <div className="poke__sts-indv">
                       <img
                         className="stat__img"
-                        src="public\speed-fast-svgrepo-com.svg"
+                        src="\speed-fast-svgrepo-com.svg"
                       />
                       <div className="po__st">
                         <h4 className={`color-${pokemon?.types[0].type.name}`}>
